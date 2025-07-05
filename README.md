@@ -25,7 +25,7 @@ This project is built using the **MERN Stack**:
 
 Follow these steps to run the project locally:
 
-1. **Clone the Repository**
+
 
 ```bash
 git clone https://github.com/kishoraman21/Zerodha.git
